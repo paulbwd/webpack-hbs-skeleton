@@ -12,12 +12,12 @@ div#rendered_template ul {
     padding: 0;
 }
 li.blue {
-    color: royalblue;
+    color: #4169e1;
 }
 li.red {
     color: #ff0000;
 }
 
 li.green {
-    color: green;
+    color: #90ee90;
 }
