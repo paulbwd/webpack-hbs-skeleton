@@ -4,7 +4,7 @@ body {
     font-family: sans-serif;
 }
 div#rendered_template {
-    background: #dfdfdf;
+    background: #b1a7c3;
     padding: 50px;
 }
 div#rendered_template ul {
@@ -20,4 +20,9 @@ li.red {
 
 li.green {
     color: #90ee90;
+}
+ol {
+    width: 105px;
+    padding: 0;
+    margin: 20px auto;
 }
