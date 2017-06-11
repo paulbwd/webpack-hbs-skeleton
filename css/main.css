@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin:40px;
+    font-family: sans-serif;
+}
+div#rendered_template {
+    background: #dfdfdf;
+    padding: 50px;
+}
+div#rendered_template ul {
+    list-style: none;
+    padding: 0;
+}
+li.blue {
+    color: royalblue;
+}
+li.red {
+    color: #ff0000;
+}
+
+li.green {
+    color: green;
+}
